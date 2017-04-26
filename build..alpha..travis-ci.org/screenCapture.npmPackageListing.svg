@@ -1,0 +1,50 @@
+<svg height="750" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="750" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-26 07:16:18 +0000   121907 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-26 07:16:18 +0000      593 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-26 07:16:18 +0000      437 bytes  bin/jest.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-26 07:16:18 +0000     7513 bytes  build/SearchSource.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-26 07:16:18 +0000     3719 bytes  build/TestNamePatternPrompt.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-26 07:16:18 +0000     3632 bytes  build/TestPathPatternPrompt.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-26 07:16:18 +0000    15456 bytes  build/TestRunner.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-26 07:16:18 +0000      851 bytes  build/TestWatcher.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-26 07:16:18 +0000     2594 bytes  build/TestWorker.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-26 07:16:18 +0000     3157 bytes  build/assets/jest_logo.png</tspan>
+<tspan x="10" y="186"> 10.  2017-04-26 07:16:18 +0000     8265 bytes  build/cli/args.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-26 07:16:18 +0000     1375 bytes  build/cli/getJest.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-26 07:16:18 +0000     1175 bytes  build/cli/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-26 07:16:18 +0000      917 bytes  build/constants.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-26 07:16:18 +0000      843 bytes  build/coverage.template</tspan>
+<tspan x="10" y="266"> 15.  2017-04-26 07:16:18 +0000     1025 bytes  build/generateEmptyCoverage.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-26 07:16:18 +0000     2957 bytes  build/jest.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-26 07:16:18 +0000     1368 bytes  build/lib/BufferedConsole.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-26 07:16:18 +0000     1687 bytes  build/lib/Prompt.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-26 07:16:18 +0000     1768 bytes  build/lib/buildTestPathPatternInfo.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-26 07:16:18 +0000      496 bytes  build/lib/colorize.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-26 07:16:18 +0000      626 bytes  build/lib/createHasteContext.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-26 07:16:18 +0000     1559 bytes  build/lib/formatTestNameByPattern.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-26 07:16:18 +0000      695 bytes  build/lib/getMaxWorkers.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-26 07:16:18 +0000     1400 bytes  build/lib/highlight.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-26 07:16:18 +0000      669 bytes  build/lib/isValidPath.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-26 07:16:18 +0000      727 bytes  build/lib/logDebugMessages.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-26 07:16:18 +0000      667 bytes  build/lib/promisify.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-26 07:16:18 +0000     1194 bytes  build/lib/setState.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-26 07:16:18 +0000      443 bytes  build/lib/terminalUtils.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-26 07:16:18 +0000      738 bytes  build/preRunMessage.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-26 07:16:18 +0000     1027 bytes  build/reporters/BaseReporter.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-26 07:16:18 +0000     4665 bytes  build/reporters/CoverageReporter.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-26 07:16:18 +0000     3685 bytes  build/reporters/DefaultReporter.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-26 07:16:18 +0000     2019 bytes  build/reporters/NotifyReporter.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-26 07:16:18 +0000     4449 bytes  build/reporters/Status.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-26 07:16:18 +0000     6014 bytes  build/reporters/SummaryReporter.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-26 07:16:18 +0000     3395 bytes  build/reporters/VerboseReporter.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-26 07:16:18 +0000     1194 bytes  build/reporters/getConsoleOutput.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-26 07:16:18 +0000     1391 bytes  build/reporters/getResultHeader.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-26 07:16:18 +0000     7771 bytes  build/reporters/utils.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-26 07:16:18 +0000     3760 bytes  build/runJest.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-26 07:16:18 +0000     2370 bytes  build/runTest.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-26 07:16:18 +0000     7927 bytes  build/watch.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-26 07:16:18 +0000     3694 bytes  package.json</tspan>
+</text>
+</svg>
